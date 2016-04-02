@@ -1,0 +1,21 @@
+************************************************************
+* PROGRAMMED BY : Erick Lopez & Justen Wrench
+* STUDENT ID    : 245600 & 715584
+* CLASS         : CS1B
+* SECTION       : MW 10:00AM - 11:50AM
+* Lab #7        : Intro to Pointers
+************************************************************
+
+Input the first value (enter -999 to exit)? 5
+Input the second value?                    25
+
+The sum is:     30
+The product is: 125
+
+Input the first value (enter -999 to exit)? -12
+Input the second value?                    100
+
+The sum is:     88
+The product is: -1200
+
+Input the first value (enter -999 to exit)? -999

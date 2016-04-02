@@ -1,0 +1,9 @@
+cout << "Expected Chocolate is 1 and we get: " << CalculateBars(4, 13);
+	cout << endl;
+	cout << "Expected amount given to sheep is 3 and we get: ";
+	cout << CalculateSheep(4,13) << endl;
+
+	cout << "Expected Chocolate is 23 and we get: " << CalculateBars(27, 50);
+	cout << endl;
+	cout << "Expected amount given to sheep is 1 and we get: ";
+	cout << CalculateSheep(27,50) << endl;

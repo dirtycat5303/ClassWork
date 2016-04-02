@@ -1,0 +1,17 @@
+**********************************************************
+*	PROGRAMMED BY   : Morgan Heaslet
+*                         & Erick Lopez
+*	STUDENT ID #1   : 889647
+*	STUDENT ID #2   : 265400
+*	CLASS           : CS1B --> MW - 10a-11:50a
+*	LAB #6          : Structs
+**********************************************************
+
+ID #     NAME                       BALANCE DUE
+----     ----------------------     -----------
+1002     Steve Woolston             $   1423.20
+1008     Chris Carroll              $     32.36
+1009     Lisa Covi                  $    332.36
+1010     Florence Rousseau          $   1323.34
+
+                 Total Balance Due: $   3111.25

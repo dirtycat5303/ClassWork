@@ -1,0 +1,37 @@
+        1                        Bagger Vance, The Legend of    2000    6            Drama            Drama          Will Smith        Matt Damon
+        2                                     Pay it Forward    2000    7            Drama          Romance        Kevin Spacey        Helen Hunt
+        3                                              X-Men    2000    7           Action           Action        Hugh Jackman   Patrick Stewart
+        1                                     Antwone Fisher    2002    7        Biography            Drama   Denzel Washington        Derek Luke
+        2                        Bagger Vance, The Legend of    2000    6            Drama            Drama          Will Smith        Matt Damon
+        3                                     Cinderella Man    2005    8        Biography            Drama       Russell Crowe   Renee Zellweger
+        4                Five People You Meet in Heaven, The    2004    7            Drama            Drama          Jon Voight     Ellen Burstyn
+        5                              Good Night, Good Luck    2005    8        Biography            Drama    David Strathairn    George Clooney
+        6                                           Invictus    2009    8        Biography            Drama      Morgan Freeman        Matt Damon
+        7                                     Pay it Forward    2000    7            Drama          Romance        Kevin Spacey        Helen Hunt
+        8                                       Pianist, The    2003    9        Biography            Drama        Adrien Brody Thomas Kreschmann
+        9                               Pursuit of Happyness    2008    8        Biography            Drama          Will Smith       Jaden Smith
+       10                                               Rent    2005    7          Musical            Drama        Anthony Rapp       Adam Pascal
+       11                                         Shackelton    2002    8        Biography            Drama     Kenneth Branagh       John Grillo
+       12                          Shawshank Redemption, The    1994    9            Drama            Crime         Tim Robbins    Morgan Freeman
+       13                                Unfinished Life, An    2005    7            Drama            Drama      Robert Redford    Jennifer Lopez
+       14                                            Whip It    2009    7            Drama            Sport          Ellen Page Marcia Gay Harden
+
+
+***************************************************************************
+Title: X-Men                                              
+---------------------------------------------------------------------------
+Year: 2000        Rating: 7
+---------------------------------------------------------------------------
+Leading Actor:    Hugh Jackman             Genre 1: Action
+Supporting Actor: Patrick Stewart          Genre 2: Action
+---------------------------------------------------------------------------
+PLOT:
+All over the planet, unusual children are born with an added twist to their 
+genetic code. This X-factor allows the children to perform extraordinary 
+feats - flight, telekinetics, laser beams from the eyes and more. One Dr. 
+Charles Xavier gathers the children to a place where he can train them to 
+use their powers for themselves and the forces of good he dubs these 
+children his X-men and hijinks ensue.
+***************************************************************************
+
+

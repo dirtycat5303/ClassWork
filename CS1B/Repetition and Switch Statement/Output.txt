@@ -1,0 +1,44 @@
+***********************************************************
+*    PROGRAMMED BY : Erick Lopez
+*    CLASS         : CS1B
+*    SECTION       : MW: 10:00a - 11:50a
+*    ASSIGNMENT #2 : Repetition & Switch Statement
+***********************************************************
+
+TEST #1:
+
+	Enter Letter Grade(enter 'X' to exit)A
+	Enter Letter Grade(enter 'X' to exit)b
+	Enter Letter Grade(enter 'X' to exit)A
+	Enter Letter Grade(enter 'X' to exit)d
+	Enter Letter Grade(enter 'X' to exit)c
+	Enter Letter Grade(enter 'X' to exit)F
+	Enter Letter Grade(enter 'X' to exit)A
+	Enter Letter Grade(enter 'X' to exit)X
+
+Total Grade Points:18
+GPA: 2.57
+
+
+TEST #2:
+
+	Enter Letter Grade(enter 'X' to exit)a
+	Enter Letter Grade(enter 'X' to exit)G
+
+	Invalid letter Grade, please try again
+
+	Enter Letter Grade(enter 'X' to exit)B
+	Enter Letter Grade(enter 'X' to exit)e
+
+	Invalid letter Grade, please try again
+
+	Enter Letter Grade(enter 'X' to exit)C
+	Enter Letter Grade(enter 'X' to exit)x
+
+Total Grade Points:9
+GPA: 3.00
+
+
+TEST #3:
+
+	Enter Letter Grade(enter 'X' to exit)x

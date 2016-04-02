@@ -1,0 +1,12 @@
+**************************************************
+* PROGRAMMED BY : Erick Lopez
+* STUDENT ID    : 265400
+* CLASS CS1B    : MW - 10:00 - 11:50
+* ASSIGNMENT #4 : Parallel Arrays
+**************************************************
+
+ID #     NAME                     BALANCE DUE
+----     --------------------     -----------
+1002     Steve Woolston           $   1423.20
+1008     Chris Carroll            $     32.36
+1001     Jean Rousseau            $     15.50

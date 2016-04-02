@@ -1,0 +1,36 @@
+******************************************************
+* PROGRAMMED BY : Christopher Anderson & Erick Lopez
+* STUDENT ID    : 847233 & 265400
+* CLASS         : CS1B --> MW - 10a-11:50a
+* LAB #8        : Testing
+******************************************************
+
+Please enter chocolate bar amount: 40
+Please enter sheep amount: 10
+
+The amount of chocolate left over is: 0
+the amount of chocolate each sheep should receive is: 4
+
+Expected Chocolate is 0 and we get: 0
+Expected amount given to sheep is 4 and we get: 4
+
+
+Please enter chocolate bar amount: 13
+Please enter sheep amount: 4
+
+The amount of chocolate left over is: 1
+the amount of chocolate each sheep should receive is: 3
+
+Expected Chocolate is 1 and we get: 1
+Expected amount given to sheep is 3 and we get: 3
+
+
+Please enter chocolate bar amount: 50
+Please enter sheep amount: 27
+
+The amount of chocolate left over is: 23
+the amount of chocolate each sheep should receive is: 1
+
+Expected Chocolate is 23 and we get: 23
+Expected amount given to sheep is 1 and we get: 1
+

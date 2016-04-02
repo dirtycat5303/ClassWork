@@ -1,0 +1,33 @@
+**********************************************************
+*	PROGRAMMED BY   : Morgan Heaslet
+*                     	  & Erick Lopez
+*	STUDENT ID #1   : 889647
+*	STUDENT ID #2   : 847233
+*	CLASS           : CS1B --> MW - 10a-11:50a
+*	LAB #6          : Structs
+**********************************************************
+
+What input file would you like to use?  InFile.txt
+What output file would you like to use? OFile.txt
+
+Who do you want to search for (enter done to exit): Steve Woolston
+Found.
+
+Who do you want to search for (enter done to exit): Jaques Rousseau
+Jaques Rousseau was not found.
+
+Who do you want to search for (enter done to exit): Chris Carroll
+Found.
+
+Who do you want to search for (enter done to exit): Lisa Covi
+Found.
+
+Who do you want to search for (enter done to exit): Florence Rousseau
+Found.
+
+Who do you want to search for (enter done to exit): Frankie Lane
+Frankie Lane was not found.
+
+Who do you want to search for (enter done to exit): done
+
+Thank you for using my program.

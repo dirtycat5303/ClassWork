@@ -1,0 +1,52 @@
+//		else if(item == GENRESEARCH)
+//		{
+//			cout << "Found "<< counter  << " movies for the genre " << stringKey;
+//		}
+//		else if (item == ACTORSEARCH)
+//		{
+//			cout << "Found "<< counter << " movies for the actor " << stringKey;
+//		}
+//		else if (item == YEARSEARCH)
+//		{
+//			cout << "Found "<< counter << " movies for the year " << intKey;
+//		}
+//		else if (item == RATINGSEARCH)
+//		{
+//			cout << "Found "<< counter << " movies for the rating " << intKey;
+//		}
+
+
+
+
+//		else if(item == GENRESEARCH)
+//		{
+//			cout << "no movies for the genre, " << stringKey <<" were found" << endl;
+//		}
+//		else if (item == ACTORSEARCH)
+//		{
+//			cout << "no movies for the actor" << stringKey << " were found" << endl;
+//		}
+//		else if (item == YEARSEARCH)
+//		{
+//			cout << " no movies for the year" << intKey << " were found" << endl;
+//		}
+//		else if (item == RATINGSEARCH)
+//		{
+//			cout << "no movies for the year "<< intKey << " were found;" << endl;
+//		}
+
+
+
+//		do
+//		{
+//			cout << "DVD MENU OPTIONS\n\n"       << endl << endl;
+//			cout << "1 - Output Entire List\n" << endl;
+//			cout << "2 - Title Search\n"       << endl;
+//			cout << "3 - Genre Search\n"       << endl;
+//			cout << "4 - Actor Search\n"       << endl;
+//			cout << "5 - Year Search\n"        << endl;
+//			cout << "6 - Rating Search (0-9)\n"<< endl;
+//			cout << "0 - EXIT\n"               << endl;
+//
+//
+//		}while();

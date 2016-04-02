@@ -1,0 +1,7 @@
+**************************************************
+* PROGRAMMED BY : Erick Lopez
+* STUDENT ID    : 265400
+* CLASS CS1B    : MW - 10:00 - 11:50
+* ASSIGNMENT #7 : Searching Linked List
+**************************************************
+
